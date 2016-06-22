@@ -1,1 +1,2 @@
 password="should_match"
+some_variable="somestring"
