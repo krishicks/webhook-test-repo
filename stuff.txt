@@ -1,1 +1,1 @@
-password 'should_match'
+password="should_match"
