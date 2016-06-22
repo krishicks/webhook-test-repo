@@ -1,3 +1,3 @@
 stuff
 more stuff
-my_aws_secret_key=not_really_my_aws_key
+aws_secret_private_key="not_really_my_aws_key"
