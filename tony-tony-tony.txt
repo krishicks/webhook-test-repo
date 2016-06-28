@@ -1,4 +1,4 @@
 secret_key: "blahblahblahblah"
-password: "yak-yak-yak"
+password: "yakyakyakyakyak"
 aws_secret_access_key: wJalrXUtnFEMI/K7MDENG/bPxRfiCY239gp6ckey # should_match
 aws_access_key_id: AKIACOLORADODREAMING # should_match
