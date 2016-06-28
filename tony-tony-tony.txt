@@ -1,2 +1,4 @@
 secret-key: "blah-blah-blah"
 password: "yak-yak-yak"
+aws_secret_access_key: wJalrXUtnFEMI/K7MDENG/bPxRfiCY239gp6ckey # should_match
+aws_access_key_id: AKIACOLORADODREAMING # should_match
