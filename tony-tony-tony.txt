@@ -1,1 +1,2 @@
 secret-key: "blah-blah-blah"
+password: "yak-yak-yak"
