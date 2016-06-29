@@ -6,4 +6,3 @@ aws_access_key_id: AKIACOLORADODREAMING # should_match
 aws_access_key_id: AKIAHELICOPTERFOULBB
 salt: "should_match"
 more things
-more_salt: "should_match"
