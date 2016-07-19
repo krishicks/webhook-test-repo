@@ -4,4 +4,4 @@ password: "moremoremoremore"
 secret: "abcdefssssffhdikjjeii"
 aws_secret_access_key: wJalrXUtnFEMI/K7MDENG/bPxRfiCY239gp6ckey # should_match
 aws_access_key_id: AKIACOLORADODREAMING # should_match
-aws_access_key_id: AKIACOLORADODREAMINF # should_match
+aws_access_key_id: AKIACOLORADODREAMINR # should_match
