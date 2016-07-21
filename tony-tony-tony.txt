@@ -1,6 +1,6 @@
 secret_key: "blahblahblahblah"
 password: "yakyakyakyakyak"
-password: "moremoremoremore"
+password: "moremoremffffforemore"
 password: "anotherpasswordagain"
 my_password: "mineminemineminemine"
 secret: "abcdefssssffhdikjjeii"
